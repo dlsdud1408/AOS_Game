@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors Game
+# Rock-Scissors-Paper Game
 
 간단한 안드로이드 가위바위보 게임입니다. 사용자가 버튼을 누르면 컴퓨터와의 가위바위보 결과를 확인할 수 있습니다.
 
